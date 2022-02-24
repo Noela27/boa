@@ -4,8 +4,6 @@ victor
 valery
 bih
 john
-<<<<<<< HEAD
-peter
-=======
+ HEAD
 silvia
->>>>>>> stage
+stage
